@@ -1,4 +1,4 @@
-# arduino
+# How to...
 
 1. Install Arduino IDE https://www.arduino.cc/en/Guide/HomePage
 2. Add libraries: OneWire, ESP8266, ETHRENET, DHT, PubSubClient. Instructions https://www.arduino.cc/en/Guide/Libraries
